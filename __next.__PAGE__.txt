@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[24612,["/martynov-family-tree-pages/_next/static/chunks/0typu5mmra_zv.js","/martynov-family-tree-pages/_next/static/chunks/0m7l08pb7i5-i.js"],"FamilyTreeApp"]
+2:I[24612,["/martynov-family-tree-pages/_next/static/chunks/0typu5mmra_zv.js","/martynov-family-tree-pages/_next/static/chunks/134dyuxexfune.js"],"FamilyTreeApp"]
 3:I[25326,["/martynov-family-tree-pages/_next/static/chunks/0typu5mmra_zv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/martynov-family-tree-pages/_next/static/chunks/0m7l08pb7i5-i.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NtEBG6d9eg-nFxu_Ch1q"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/martynov-family-tree-pages/_next/static/chunks/134dyuxexfune.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"48p2Gqfvn3x9uegktQN5O"}
 5:null
