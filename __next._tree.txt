@@ -1,2 +1,2 @@
-:HL["/martynov-family-tree-pages/_next/static/chunks/0phhq_e43ih6z.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"80ic16qYMi6UYKtIYQkqI"}
+:HL["/martynov-family-tree-pages/_next/static/chunks/0oztf54izp~bg.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"4NtEBG6d9eg-nFxu_Ch1q"}
